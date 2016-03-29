@@ -19,7 +19,7 @@ from collections import Counter
 NTOP=20
 init()
 
-#lalalalal
+#lalalalalfuncion2
 def banner():
         print Fore.BLUE+"======================="
         print Fore.BLUE+"=== Is This a DDoS? ==="
