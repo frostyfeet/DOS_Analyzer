@@ -6,7 +6,7 @@
 # Creation date: 10-2014                                                      #
 # Changelog:                                                                  #
 #                                                                             #
-# Author: Felipe Molina                                                       #
+# Author: Felipe Molina                                                 jJ
 ###############################################################################
 
 import os,re
@@ -19,6 +19,7 @@ from collections import Counter
 NTOP=20
 init()
 
+#lalalalal
 def banner():
         print Fore.BLUE+"======================="
         print Fore.BLUE+"=== Is This a DDoS? ==="
